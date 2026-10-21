@@ -10,7 +10,7 @@ metadata:
 
 Use this skill when a user needs an official statistical figure, time series, comparison, or geographic ranking. Configure an MCP client with the Invokely server before calling tools; the no-account endpoint is `https://invokely.ai/mcp/trial`, while `https://invokely.ai/mcp` requires an API key or OAuth. Read each tool's current schema and description before calling it. Do not guess indicator IDs, place IDs, periods, or argument names.
 
-This skill is adapted from the public [awesome-copilot skill at commit `9d96d33228f753cf26d7da5115598da2c19ad900`](https://github.com/estevecastells/awesome-copilot/blob/9d96d33228f753cf26d7da5115598da2c19ad900/skills/invokely-statistics/SKILL.md). Its originating [PR #4950](https://github.com/github/awesome-copilot/pull/4950) is still open and unmerged. The source repository's MIT notice is preserved in the accompanying `LICENSE` file. Disclosure: the author is affiliated with Invokely.
+This skill is adapted from the public [awesome-copilot file at commit `9d96d33228f753cf26d7da5115598da2c19ad900`](https://github.com/estevecastells/awesome-copilot/blob/9d96d33228f753cf26d7da5115598da2c19ad900/skills/invokely-statistics/SKILL.md). It was proposed separately in [github/awesome-copilot PR #4950](https://github.com/github/awesome-copilot/pull/4950); this catalog submission is independent and does not imply upstream acceptance. The source repository's MIT notice is preserved in the accompanying `LICENSE` file. Disclosure: the author is affiliated with Invokely.
 
 ## Query workflow
 
